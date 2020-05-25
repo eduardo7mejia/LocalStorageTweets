@@ -1,0 +1,61 @@
+body {
+    background-color: #dfdbdb18;
+    height: 100hv;
+    padding-top: 2rem;
+}
+.row{
+    margin: 2rem;
+}
+
+.titulo{
+    font-size: 30px;
+    font-family: Verdana;
+    color: black;
+    margin: 0;
+}
+/*Agregar estilos al boton agregar*/
+.boton-agregar:hover{
+	background-color: #106251;
+    cursor: pointer;
+}
+.boton-agregar:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
+    background-color: #106251;
+    border-color: none;
+    border: #106251;
+}
+a.borrar-tweet,
+.borrar-tweet:hover {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
+li{
+    list-style: square;
+}
+.cuadro{
+    border-radius: 10px;
+    border: 0px solid #000000;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.075);
+    padding: 2rem;
+    margin-top: 2rem;
+    
+}
+
+/* Mobile first queries */
+
+/* Larger than mobile */
+@media (min-width: 400px) {}
+
+/* Larger than phablet */
+@media (min-width: 550px) {}
+
+/* Larger than tablet */
+@media (min-width: 750px) {}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {}
+
