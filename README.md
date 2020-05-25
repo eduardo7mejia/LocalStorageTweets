@@ -14,8 +14,7 @@ En este repositorio se incluye el código.
 
 * [bootstrap](https://getbootstrap.com/)
 
-# Themes boostrap 
-
+# Themes boostrap
 * [bootstrap watch](https://bootswatch.com/)
 
 * [Visual Studio Code](https://code.visualstudio.com/)
