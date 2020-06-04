@@ -1,9 +1,9 @@
-#Tweets
+#Tweets con Local Storage
 
 En este repositorio se incluye el código.
 # Creado por:
 * Eduardo Mejia ...
-
+![Portada del proyecto](img/portada-proyecto.png)
 # Lenguajes usados
 
 * html
